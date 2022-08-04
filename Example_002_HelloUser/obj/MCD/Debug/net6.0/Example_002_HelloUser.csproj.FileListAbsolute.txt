@@ -1,0 +1,15 @@
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\bin\MCD\Debug\net6.0\Example_002_HelloUser.exe
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\bin\MCD\Debug\net6.0\Example_002_HelloUser.deps.json
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\bin\MCD\Debug\net6.0\Example_002_HelloUser.runtimeconfig.json
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\bin\MCD\Debug\net6.0\Example_002_HelloUser.dll
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\bin\MCD\Debug\net6.0\Example_002_HelloUser.pdb
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.AssemblyInfo.cs
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.dll
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\refint\Example_002_HelloUser.dll
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.pdb
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\Example_002_HelloUser.genruntimeconfig.cache
+C:\Users\P\Desktop\Введение в C#\Example_002_HelloUser\obj\MCD\Debug\net6.0\ref\Example_002_HelloUser.dll
