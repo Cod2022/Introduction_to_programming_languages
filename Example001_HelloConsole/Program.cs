@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("3 Hello, World!");
+// Console - это оператор, который позволяет обращаться к терминалу
+// WriteLine - это команда, позволяющая вывести информацию в окно терминала
+// - это комментарий к коду
+// dotnet run - команда запуска кода (выполняется в Терминале)
